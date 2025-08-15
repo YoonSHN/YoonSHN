@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Hi!%20%F0%9F%91%8B%20I%20AM%18Seunghyun!&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Hi!%20%F0%9F%91%8B%20I%20AM%20Seunghyun!&fontSize=67" />
 
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
