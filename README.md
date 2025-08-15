@@ -23,4 +23,6 @@
 
 <hr style="border: 2px solid #39FF14;"/>
 
+
+[![Seunghyun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Seunghyun&theme=react-dark)](https://github.com/YoonSHN)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hbm06065)](https://solved.ac/hbm06065)
