@@ -22,4 +22,4 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hbm06065)](https://solved.ac/hbm06065)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hbm06065)](https://solved.ac/hbm06065) **Seunghyun**
