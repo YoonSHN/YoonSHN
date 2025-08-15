@@ -1,11 +1,29 @@
+<!-- 상단 헤더 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Hi!%20%F0%9F%91%8B%20I%20am%20Seunghyun!&fontSize=67" />
 
-<hr style="border: 2px solid #39FF14;"/>
-
+<!-- 소개글 -->
 <div align="center">
 
+💡 Always learning, always building.  
+💡 Passionate Backend Developer, Always Learning.
+</div>
+
+<hr style="border: 2px solid #00FFA8;"/>
+
+<!-- 자격증 -->
+<div align="center">
+
+![정보처리기사](https://img.shields.io/badge/정보처리기사-0056D2?style=for-the-badge&logoColor=white) 2024.06
+![SQLD](https://img.shields.io/badge/SQLD-336791?style=for-the-badge&logo=postgresql&logoColor=white) 2023.12
+![TOEIC%20Speaking%20IH](https://img.shields.io/badge/TOEIC%20Speaking-IH-1F8ACB?style=for-the-badge&logo=testinglibrary&logoColor=white) (2024.09)
+![리눅스마스터1급](https://img.shields.io/badge/리눅스마스터1급-FF9900?style=for-the-badge&logoColor=white) 예정
+![AWS%20SAA](https://img.shields.io/badge/AWS%20SAA-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 예정
+
+</div>
+
 <!-- 기술 스택 -->
-  
+<div align="center">
+
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -23,16 +41,15 @@
 
 </div>
 
-<hr style="border: 2px solid #39FF14;"/>
+<hr style="border: 2px solid #00FFA8;"/>
 
+<!-- Contact -->
 <div align="center">
 
-<!-- 자격증 배지 (자격증명 강조, 날짜 보조) -->
-
-![정보처리기사](https://img.shields.io/badge/정보처리기사-0056D2?style=for-the-badge&logoColor=white) 2024.06
-![SQLD](https://img.shields.io/badge/SQLD-336791?style=for-the-badge&logo=postgresql&logoColor=white) 2023.12
-![TOEIC%20Speaking%20IH](https://img.shields.io/badge/TOEIC%20Speaking-IH-1F8ACB?style=for-the-badge&logo=testinglibrary&logoColor=white) (2024.09)
-![리눅스마스터1급](https://img.shields.io/badge/리눅스마스터1급-FF9900?style=for-the-badge&logoColor=white) 예정
-![AWS%20SAA](https://img.shields.io/badge/AWS%20SAA-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 예정
+## 📫 Contact
+- **Email**: tkdenddl182@gmail.com
+- **Blog**: [Tech Blog](https://devlog-tmdgus99.tistory.com/)  
 
 </div>
+
+<hr style="border: 2px solid #00FFA8;"/>
