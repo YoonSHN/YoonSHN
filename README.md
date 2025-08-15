@@ -4,7 +4,8 @@
 <!-- 소개 -->
 
 <div align="left">
-  <strong>안녕하세요! 도전과 성장을 즐기는 열정적인 개발자 <span style="color:#FFD700;">윤승현</span>입니다.</strong>
+  <strong>안녕하세요! 도전과 성장을 즐기는 윤승현입니다.</strong>
+  <br>
   <br>
   <strong>💡 Always learning, always building.  </strong>  
 </div>
