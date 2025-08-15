@@ -4,7 +4,7 @@
 <!-- 소개 -->
 
 <div align="left">
-  <span style="font-size: 15px; font-weight: bold;">
+  <span style="font-size: 18px; font-weight: bold;">
     안녕하세요! 도전과 성장을 즐기는 윤승현입니다.
   </span>
   <br><br>
