@@ -24,12 +24,12 @@
   <tr>
     <td width="20%" align="left"><h3>💻 Tech Stack</h3></td>
     <td width="80%" align="left">
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&cacheSeconds=60" />
+      <img src='https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><path fill="white" d="M20 28h18a8 8 0 0 1 0 16H28a10 10 0 0 1-8-16zm26 4h4a4 4 0 0 1 0 8h-4v-8z"/><path fill="white" d="M24 20c0-4 6-4 6-8 0-3-3-4-3-7 3 2 6 4 6 7 0 5-9 6-9 8zM33 22c0-3 5-3 5-6 0-2-2-3-2-5 2 2 4 3 4 5 0 4-7 4-7 6z"/></svg>&logoColor=white&cacheSeconds=60' />
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring%20Data%20JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&cacheSeconds=60" />
+      <img src='https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><text x="10" y="40" font-size="32" fill="white" font-family="Arial, Helvetica, sans-serif">AWS</text></svg>&logoColor=white&cacheSeconds=60' />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
       <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
