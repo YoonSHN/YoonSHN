@@ -22,4 +22,4 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-[![Seunghyun's Github stats](https://github-readme-stats.vercel.app/api?username=YoonSHN)](https://github.com/YoonSHN/github-readme-stats)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={hbm06065})](https://solved.ac/{hbm06065})
