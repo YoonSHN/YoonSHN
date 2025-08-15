@@ -15,6 +15,8 @@
       <img src="https://img.shields.io/badge/정보처리기사-0056D2?style=for-the-badge&logoColor=white" /> <sub>(2025.09)</sub>
       <img src="https://img.shields.io/badge/SQLD-336791?style=for-the-badge&logoColor=white" /> <sub>(2024.09)</sub>
       <img src="https://img.shields.io/badge/TOEIC%20Speaking-IH-1F8ACB?style=for-the-badge&logoColor=white" /> <sub>(2024.09)</sub>
+      <img src="https://img.shields.io/badge/리눅스마스터1급-FF9900?style=for-the-badge&logoColor=white" /> <sub>예정</sub>
+      <img src="https://img.shields.io/badge/AWS%20SAA-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <sub>예정</sub>
     </td>
   </tr>
 
