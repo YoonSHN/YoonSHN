@@ -1,25 +1,22 @@
 <!-- 상단 헤더 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Hi!%20%F0%9F%91%8B%20I%20am%20Seunghyun!&fontSize=67" />
 
-<!-- 소개글 -->
+<!-- (소개글 + 자격증) 블록 -->
 <div align="center">
 
-💡 Always learning, always building.  
-💡 Passionate Backend Developer, Always Learning.
+<h3><strong>💡 배우고, 만들고, 개선하는 백엔드 개발자</strong></h3>
+
+<!-- 자격증: 자격증명이 먼저 보이도록, 날짜는 작게(sub) -->
+  
+![정보처리기사](https://img.shields.io/badge/정보처리기사-0056D2?style=for-the-badge&logoColor=white) <sub>2024.06</sub>
+![SQLD](https://img.shields.io/badge/SQLD-336791?style=for-the-badge&logo=postgresql&logoColor=white) <sub>2023.12</sub>
+![TOEIC%20Speaking%20IH](https://img.shields.io/badge/TOEIC%20Speaking-IH-1F8ACB?style=for-the-badge&logo=testinglibrary&logoColor=white) <sub>(2024.09)</sub>
+![리눅스마스터1급](https://img.shields.io/badge/리눅스마스터1급-FF9900?style=for-the-badge&logoColor=white) <sub>예정</sub>
+![AWS%20SAA](https://img.shields.io/badge/AWS%20SAA-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) <sub>예정</sub>
+
 </div>
 
 <hr style="border: 2px solid #00FFA8;"/>
-
-<!-- 자격증 -->
-<div align="center">
-
-![정보처리기사](https://img.shields.io/badge/정보처리기사-0056D2?style=for-the-badge&logoColor=white) 2024.06
-![SQLD](https://img.shields.io/badge/SQLD-336791?style=for-the-badge&logo=postgresql&logoColor=white) 2023.12
-![TOEIC%20Speaking%20IH](https://img.shields.io/badge/TOEIC%20Speaking-IH-1F8ACB?style=for-the-badge&logo=testinglibrary&logoColor=white) (2024.09)
-![리눅스마스터1급](https://img.shields.io/badge/리눅스마스터1급-FF9900?style=for-the-badge&logoColor=white) 예정
-![AWS%20SAA](https://img.shields.io/badge/AWS%20SAA-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 예정
-
-</div>
 
 <!-- 기술 스택 -->
 <div align="center">
@@ -46,9 +43,19 @@
 <!-- Contact -->
 <div align="center">
 
-## 📫 Contact
-- **Email**: tkdenddl182@gmail.com
-- **Blog**: [Tech Blog](https://devlog-tmdgus99.tistory.com/)  
+<h3>📫 Contact</h3>
+
+<!-- 버튼형 배지로 깔끔하게; 줄바꿈 최소화 -->
+<a href="mailto:tkdenddl182@gmail.com">
+  <img src="https://img.shields.io/badge/Email-tkdenddl182@gmail.com-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://devlog-tmdgus99.tistory.com/">
+  <img src="https://img.shields.io/badge/Blog-Tistory-FF6C37?style=for-the-badge&logo=tistory&logoColor=white" />
+</a>
+<!-- 잡코리아 주소가 있다면 아래 링크에 넣어주세요 -->
+<a href="https://www.jobkorea.co.kr/User/Profile/View?userId=YOUR_ID">
+  <img src="https://img.shields.io/badge/JobKorea-Profile-2E8B57?style=for-the-badge" />
+</a>
 
 </div>
 
