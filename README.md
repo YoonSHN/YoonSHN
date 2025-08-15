@@ -2,11 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Hi!%20%F0%9F%91%8B%20I%20am%20Seunghyun!&fontSize=67" />
 
 <!-- 소개 -->
-<!--
+
 <div align="left">
-  <strong>“코드는 조용하지만, 매일 무언가를 바꾼다.”</strong>
+  <strong>💡 Always learning, always building.  </strong>
 </div>
---!>
+
 <!-- Certifications & Tech Stack & Contact -->
 <table width="100%" style="table-layout: fixed;">
   <!-- Certifications -->
