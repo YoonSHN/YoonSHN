@@ -5,6 +5,7 @@
 
 <div align="left">
   <strong>💡 Always learning, always building.  </strong>
+  <strong>안녕하세요! 도전과 성장을 즐기는 열정적인 개발자 <span style="color:#FFD700;">윤승현</span>입니다.</strong>
 </div>
 
 <hr style="border: 2px solid #39FF14;"/>
