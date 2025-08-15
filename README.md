@@ -7,15 +7,16 @@
 </div>
 
 <!-- 자격증 -->
-<table width="100%">
+<table width="100%" style="table-layout:fixed;">
   <tr>
-    <td align="left"><h3>📜 자격증</h3></td>
+    <td align="left" width="100%"><h3>📜 자격증</h3></td>
   </tr>
   <tr>
-    <td align="left">
+    <td align="left" width="100%">
       <img src="https://img.shields.io/badge/정보처리기사-0056D2?style=for-the-badge&logoColor=white" /> <sub>2024.06</sub>
       <br/>
-      <img src="https://img.shields.io/badge/SQLD-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <sub>2023.12</sub>
+      <!-- SQLD: 로고 제거 -->
+      <img src="https://img.shields.io/badge/SQLD-336791?style=for-the-badge&logoColor=white" /> <sub>2023.12</sub>
       <br/>
       <img src="https://img.shields.io/badge/TOEIC%20Speaking-IH-1F8ACB?style=for-the-badge&logoColor=white" /> <sub>(2024.09)</sub>
       <br/>
@@ -27,12 +28,12 @@
 </table>
 
 <!-- 기술 스택 -->
-<table width="100%">
+<table width="100%" style="table-layout:fixed;">
   <tr>
-    <td align="left"><h3>💻 기술 스택</h3></td>
+    <td align="left" width="100%"><h3>💻 기술 스택</h3></td>
   </tr>
   <tr>
-    <td align="left">
+    <td align="left" width="100%">
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring%20Data%20JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
@@ -52,12 +53,12 @@
 </table>
 
 <!-- Contact -->
-<table width="100%">
+<table width="100%" style="table-layout:fixed;">
   <tr>
-    <td align="left"><h3>📫 Contact</h3></td>
+    <td align="left" width="100%"><h3>📫 Contact</h3></td>
   </tr>
   <tr>
-    <td align="left">
+    <td align="left" width="100%">
       <a href="mailto:tkdenddl182@gmail.com">
         <img src="https://img.shields.io/badge/Email-tkdenddl182@gmail.com-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
