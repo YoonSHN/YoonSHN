@@ -7,6 +7,9 @@
   <strong>💡 Always learning, always building.  </strong>
 </div>
 
+<hr style="border: 2px solid #39FF14;"/>
+
+
 <!-- Certifications & Tech Stack & Contact -->
 <table width="100%" style="table-layout: fixed;">
   <!-- Certifications -->
