@@ -4,10 +4,11 @@
 <!-- 소개 -->
 
 <div align="left">
-  <strong style="font-size : 15px;">안녕하세요! 도전과 성장을 즐기는 윤승현입니다.</strong>
-  <br>
-  <br>
-  <strong>💡 Always learning, always building.  </strong>  
+  <span style="font-size: 15px; font-weight: bold;">
+    안녕하세요! 도전과 성장을 즐기는 윤승현입니다.
+  </span>
+  <br><br>
+  <strong>💡 Always learning, always building.</strong>
 </div>
 
 <hr style="border: 2px solid #39FF14;"/>
