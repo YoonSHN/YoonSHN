@@ -6,18 +6,21 @@
   <strong>“코드는 조용하지만, 매일 무언가를 바꾼다.”</strong>
 </div>
 
-<!-- 표 하나에 모두 넣기 -->
-<table width="100%" style="table-layout:fixed;">
+<!-- 표 -->
+<table width="100%">
   <tr>
-    <td align="left" width="100%">
-      <h3>📜 자격증</h3>
+    <td width="20%" align="left"><h3>📜 자격증</h3></td>
+    <td align="left">
       <img src="https://img.shields.io/badge/정보처리기사-0056D2?style=for-the-badge&logoColor=white" /> <sub>2024.06</sub><br/>
       <img src="https://img.shields.io/badge/SQLD-336791?style=for-the-badge&logoColor=white" /> <sub>2023.12</sub><br/>
       <img src="https://img.shields.io/badge/TOEIC%20Speaking-IH-1F8ACB?style=for-the-badge&logoColor=white" /> <sub>(2024.09)</sub><br/>
       <img src="https://img.shields.io/badge/리눅스마스터1급-FF9900?style=for-the-badge&logoColor=white" /> <sub>예정</sub><br/>
       <img src="https://img.shields.io/badge/AWS%20SAA-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <sub>예정</sub>
-
-      <h3>💻 기술 스택</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="left"><h3>💻 기술 스택</h3></td>
+    <td align="left">
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring%20Data%20JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" /><br/>
@@ -29,8 +32,11 @@
       <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br/>
       <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-
-      <h3>📫 Contact</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="left"><h3>📫 Contact</h3></td>
+    <td align="left">
       <a href="mailto:tkdenddl182@gmail.com">
         <img src="https://img.shields.io/badge/Email-tkdenddl182@gmail.com-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
       </a><br/>
