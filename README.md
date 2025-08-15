@@ -4,7 +4,7 @@
 <!-- 소개 -->
 
 <div align="left">
-  <strong>안녕하세요! 도전과 성장을 즐기는 윤승현입니다.</strong>
+  <strong style="font-size : 15px;">안녕하세요! 도전과 성장을 즐기는 윤승현입니다.</strong>
   <br>
   <br>
   <strong>💡 Always learning, always building.  </strong>  
