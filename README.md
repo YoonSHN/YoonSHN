@@ -23,3 +23,6 @@
 
 <hr style="border: 2px solid #39FF14;"/>
 
+![정보처리기사](https://img.shields.io/badge/정보처리기사-국가기술자격-0056D2?style=for-the-badge)
+![리눅스마스터1급](https://img.shields.io/badge/리눅스마스터-1급-FF9900?style=for-the-badge)
+![AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
