@@ -10,6 +10,7 @@
 
 <hr style="border: 2px solid #39FF14;"/>
 
+
 <table width="100%" style="table-layout: fixed;">
     <tr>
     <td width="20%" align="left"><h3>📜 Certifications</h3></td>
