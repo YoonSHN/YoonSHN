@@ -1,7 +1,4 @@
-<!-- 상단 헤더 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Hi!%20%F0%9F%91%8B%20I%20am%20Seunghyun!&fontSize=67" />
-
-<!-- 소개 -->
 
 <div align="left">
   <span style="font-size: 18px; font-weight: bold;">
@@ -12,10 +9,10 @@
 </div>
 
 <hr style="border: 2px solid #39FF14;"/>
-<!-- Certifications & Tech Stack & Contact -->
+
+
 <table width="100%" style="table-layout: fixed;">
-  <!-- Certifications -->
-  <tr>
+    <tr>
     <td width="20%" align="left"><h3>📜 Certifications</h3></td>
     <td width="80%" align="left">
       <img src="https://img.shields.io/badge/정보처리기사-0056D2?style=for-the-badge&logoColor=white" /> <sub>(2025.09)</sub>
@@ -26,8 +23,7 @@
     </td>
   </tr>
 
-  <!-- Tech Stack -->
-  <tr>
+    <tr>
     <td width="20%" align="left"><h3>💻 Tech Stack</h3></td>
     <td width="80%" align="left">
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=&logoColor=white" />
@@ -44,8 +40,7 @@
     </td>
   </tr>
 
-  <!-- Contact -->
-  <tr>
+    <tr>
     <td width="20%" align="left"><h3>📫 Contact</h3></td>
     <td width="80%" align="left">
       <a href="mailto:tkdenddl182@gmail.com">
