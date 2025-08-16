@@ -15,9 +15,9 @@
 
 
 <!-- Certifications & Tech Stack & Contact -->
-<table width="100%" height="500px" style="table-layout: fixed;">
+<table width="100%" height="350px" style="table-layout: fixed;">
   <!-- Certifications -->
-  <tr>
+  <tr style="heigth : 50%">
     <td width="20%" align="left"><h3>📜 Certifications</h3></td>
     <td width="80%" align="left">
       <img src="https://img.shields.io/badge/정보처리기사-0056D2?style=for-the-badge&logoColor=white" /> <sub>(2025.09)</sub>
