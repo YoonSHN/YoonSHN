@@ -1,7 +1,4 @@
-<!-- 상단 헤더 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Hi!%20%F0%9F%91%8B%20I%20am%20Seunghyun!&fontSize=67" />
-
-<!-- 소개 -->
 
 <div align="left">
   <span style="font-size: 18px; font-weight: bold;">
@@ -13,13 +10,12 @@
 
 <hr style="border: 2px solid #39FF14;"/>
 
-
-<!-- Certifications & Tech Stack & Contact -->
-<table width="100%" height="350px" style="table-layout: fixed;">
-  <!-- Certifications -->
-  <tr style="heigth : 50%">
-    <td width="20%" align="left"><h3>📜 Certifications</h3></td>
-    <td width="80%" align="left">
+<table width="100%" style="table-layout: fixed;">
+  <tr>
+    <td width="20%" style="text-align: center; vertical-align: middle; padding: 10px;">
+      <h3>📜 Certifications</h3>
+    </td>
+    <td width="80%" style="vertical-align: middle; padding: 10px;">
       <img src="https://img.shields.io/badge/정보처리기사-0056D2?style=for-the-badge&logoColor=white" /> <sub>(2025.09)</sub>
       <img src="https://img.shields.io/badge/SQLD-336791?style=for-the-badge&logoColor=white" /> <sub>(2024.09)</sub>
       <img src="https://img.shields.io/badge/TOEIC%20Speaking-IH-1F8ACB?style=for-the-badge&logoColor=white" /> <sub>(2024.10)</sub>
@@ -28,10 +24,11 @@
     </td>
   </tr>
 
-  <!-- Tech Stack -->
   <tr>
-    <td width="20%" align="left"><h3>💻 Tech Stack</h3></td>
-    <td width="80%" align="left">
+    <td width="20%" style="text-align: center; vertical-align: middle; padding: 10px;">
+      <h3>💻 Tech Stack</h3>
+    </td>
+    <td width="80%" style="vertical-align: middle; padding: 10px;">
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring%20Data%20JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
@@ -46,10 +43,11 @@
     </td>
   </tr>
 
-  <!-- Contact -->
   <tr>
-    <td width="20%" align="left"><h3>📫 Contact</h3></td>
-    <td width="80%" align="left">
+    <td width="20%" style="text-align: center; vertical-align: middle; padding: 10px;">
+      <h3>📫 Contact</h3>
+    </td>
+    <td width="80%" style="vertical-align: middle; padding: 10px;">
       <a href="mailto:tkdenddl182@gmail.com">
         <img src="https://img.shields.io/badge/Email-tkdenddl182@gmail.com-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
