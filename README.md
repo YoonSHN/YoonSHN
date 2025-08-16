@@ -15,7 +15,7 @@
 
 
 <!-- Certifications & Tech Stack & Contact -->
-<table width="100%" style="table-layout: fixed;">
+<table width="100%" height="120vh" style="table-layout: fixed;">
   <!-- Certifications -->
   <tr>
     <td width="20%" align="left"><h3>📜 Certifications</h3></td>
