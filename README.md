@@ -25,8 +25,6 @@
       <img src="https://img.shields.io/badge/TOEIC%20Speaking-IH-1F8ACB?style=for-the-badge&logoColor=white" /> <sub>(2024.10)</sub>
       <img src="https://img.shields.io/badge/리눅스마스터1급-FF9900?style=for-the-badge&logoColor=white" /> <sub>준비중</sub>
       <img src="https://img.shields.io/badge/AWS%20SAA-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <sub>준비중</sub>
-      <img src="https://img.shields.io/badge/리눅스마스터1급-FF9900?style=for-the-badge&logoColor=white" /> <sub>(준비중)</sub>
-      <img src="https://img.shields.io/badge/AWS%20SAA-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <sub>(준비중)</sub>
     </td>
   </tr>
 
